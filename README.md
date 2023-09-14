@@ -10,8 +10,6 @@
 
 - Matteo Francia, Ph.D. in Computer Science and Engineering. Assistant Professor @ UniBO
 
-## This course
-
 ## Programme
 
 | When | What |
