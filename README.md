@@ -22,3 +22,7 @@
 | Day 4 (Sep 23, 2023; 9.00 - 13.00)  | TBA                                            |
 | Day 5 (Oct 13, 2023; 14.00 - 18.00) | Integrated analytics (guided) lab |
 | Day 6 (Oct 14, 2023; 9.00 - 13.00)  | Integrated analytics (guided) lab |
+
+Install Weka:
+- Weka is a machine learning software to solve data mining problems 
+- Download: https://prdownloads.sourceforge.net/weka/weka-3-8-6-azul-zulu-windows.exe
