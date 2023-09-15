@@ -1,5 +1,7 @@
 # Data Mining
 
+Data Strategy & Business Analytics VIII
+
 - Tutto il materiale è accessibile a questo link: https://github.com/w4bo/2023-bbs-op-datamining
 
 ![image](https://user-images.githubusercontent.com/18005592/235678122-cc2992d4-2113-42aa-aa83-a641c77e85e9.png)
