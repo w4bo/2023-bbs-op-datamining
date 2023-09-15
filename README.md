@@ -6,7 +6,9 @@ Data Strategy & Business Analytics VIII
 
 ![image](https://user-images.githubusercontent.com/18005592/235678122-cc2992d4-2113-42aa-aa83-a641c77e85e9.png)
 
-- Contact: Martina Vaccari <martina.vaccari@bbs.unibo.it>
+Contacts:
+-  Marco Iannino <marco.iannino@bbs.unibo.it>
+-  Martina Vaccari <martina.vaccari@bbs.unibo.it>
 
 ## `whoami`
 
