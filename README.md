@@ -30,6 +30,10 @@ Install Weka:
 - Download: https://prdownloads.sourceforge.net/weka/weka-3-8-6-azul-zulu-windows.exe
 
 Link interessanti:
-- https://www.wired.com/story/prisoners-training-ai-finland/
-- https://www.mturk.com/
-- https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
+  - News
+    - https://www.wired.com/story/prisoners-training-ai-finland/
+    - https://www.mturk.com/
+    - https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
+  - ANN
+    - https://playground.tensorflow.org 
+    - https://cs.stanford.edu/people/karpathy/convnetjs/ 
