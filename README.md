@@ -31,6 +31,8 @@ Install Weka:
 
 Link interessanti:
   - News
+    - https://www.repubblica.it/economia/2023/09/14/news/inps_salario_minimo_lavoro_povero_meloni-414403018/
+    - https://www.ilfattoquotidiano.it/in-edicola/articoli/2023/09/14/linps-di-meloni-fa-sp-arire-il-lavoro-povero/7291305/
     - https://www.wired.com/story/prisoners-training-ai-finland/
     - https://www.mturk.com/
     - https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
