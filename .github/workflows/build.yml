@@ -2,7 +2,7 @@ name: "build"
 on: [push, pull_request]
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@3df4ab11eba7bda6032a0b82a6bb43b11571feac # v4
       - uses: actions/setup-python@v4
@@ -12,11 +12,14 @@ jobs:
       - name: Run the notebooks
         run: |
           cd materials
+          sudo apt update
           sudo apt-get install openjdk-8-jdk-headless -qq
+          java -version
           wget -q http://archive.apache.org/dist/spark/spark-3.1.1/spark-3.1.1-bin-hadoop3.2.tgz
           tar xf spark-3.1.1-bin-hadoop3.2.tgz
           sudo mkdir -p /content
           sudo mv spark-3.1.1-bin-hadoop3.2 /content
+          ls -las /content
           pip install -r requirements.txt
           chmod +x generate.sh
           ./generate.sh
