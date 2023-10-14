@@ -29,6 +29,10 @@ Install Weka:
 - Weka is a machine learning software to solve data mining problems 
 - Download: https://prdownloads.sourceforge.net/weka/weka-3-8-6-azul-zulu-windows.exe
 
+Install Tableau:
+- Tableau Desktop delivers everything you need to access, visualize, and analyze your data. With an intuitive drag and drop interface
+- Download: https://www.tableau.com/products/desktop
+
 Link interessanti:
   - News
     - https://www.bloomberg.com/news/articles/2023-08-31/ai-startups-create-digital-demand-for-anguilla-s-website-domain-name
